@@ -14,7 +14,7 @@ Roadmap for app development
 2.  Contact popular app reviewers, bloggers, you tubers, twitter, facebook, instagram, snapchat, etc...  
 3.  Reviews are very important, they are version based and directly affect app success.  
 4.  Constant communication with the userbase is key.  
-5.  App name, description, screenshots and developer activity all account for success.  
+5.  App name, icon, description, screenshots and developer activity all account for success.  
 6.  Review stars and overall number of reviews can sway customer opinion
 
 ---  
