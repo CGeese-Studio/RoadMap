@@ -4,6 +4,8 @@ Roadmap for app development
 ### A centralized place to keep ideas, recommendations, progress and milestones.  
 ---  
 [Keys To Success] (#keys-to-success)  
+[Best Practices] (#best-practices)  
+[Code Examples] (#code-examples)
 [References] (#references)  
 
 ---  
@@ -14,5 +16,11 @@ Roadmap for app development
 4.  Constant communication with the userbase is key.  
 5.  App name, description, screenshots and developer activity all account for success.  
 
+---  
+#Best Practices  
+
+---  
+#Code Examples  
+  
 ---  
 #References
