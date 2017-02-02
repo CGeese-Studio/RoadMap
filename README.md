@@ -6,7 +6,7 @@ Roadmap for app development
 [Keys To Success] (#keys-to-success)  
 [Best Practices] (#best-practices)  
 [Code Examples] (#code-examples)  
-[Milestones] (#milestones)
+[Milestones] (#milestones)  
 [References] (#references)
 
 ---  
