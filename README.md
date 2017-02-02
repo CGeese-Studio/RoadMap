@@ -18,9 +18,9 @@ Roadmap for app development
 5.  App name, icon, description, screenshots and developer activity all account for success.  
 6.  Review stars and overall number of reviews can sway customer opinion  
 7.  Review farming must be handled lightly, dont nag, request a review as politely as possible.  
-      * Maybe just a link to review in the "settings" area, a subtle hint to rate the app, stay away from popups that interupt the user expereince.  
-      
-
+      * Maybe just a link to review in the "settings" area, a subtle hint to rate the app, stay away from popups that interupt the user expereince. 
+      * The overcast philosophy on ratings is a perfect example of this. Display how many people have rated a particular version somewhere in the app with a link to review it yourself. ("X amount of people have rated this version of "APPNAME") We will never interrupt you for review requests.  
+  
 ---  
 #Best Practices  
 
