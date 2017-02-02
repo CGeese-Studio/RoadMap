@@ -28,6 +28,8 @@ A good place to test code while away from a mac is IBM bluemix. A web based play
 
 ---  
 #Milestones  
-
+1. Obtain a Macbook and install the development environment (Xcode)  
+      *Completed on -   
+      
 ---  
 #References
