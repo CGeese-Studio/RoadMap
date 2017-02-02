@@ -3,7 +3,7 @@ Roadmap for app development
 ---  
 ### A centralized place to keep ideas, recommendations, progress and milestones.  
 ---  
-[MArketing] (#marketing)  
+[Marketing] (#marketing)  
 [Best Practices] (#best-practices)  
 [Code Examples] (#code-examples)  
 [Milestones] (#milestones)  
@@ -17,7 +17,9 @@ Roadmap for app development
 4.  Constant communication with the userbase is key.  
 5.  App name, icon, description, screenshots and developer activity all account for success.  
 6.  Review stars and overall number of reviews can sway customer opinion  
-7.  Review farming must be handled lightly, dont nag, request a review as politely as possible.
+7.  Review farming must be handled lightly, dont nag, request a review as politely as possible.  
+      * Maybe just a link to review in the "settings" area, a subtle hint to rate the app, stay away from popups that interupt the user expereince.  
+      
 
 ---  
 #Best Practices  
