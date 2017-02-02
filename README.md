@@ -3,14 +3,14 @@ Roadmap for app development
 ---  
 ### A centralized place to keep ideas, recommendations, progress and milestones.  
 ---  
-[Keys To Success] (#keys-to-success)  
+[MArketing] (#marketing)  
 [Best Practices] (#best-practices)  
 [Code Examples] (#code-examples)  
 [Milestones] (#milestones)  
 [References] (#references)
 
 ---  
-#Keys to success
+#Marketing
 1.  Most apps that succeed do so because of advertising and product awareness. No one will download your app if they dont know its there.
 2.  Contact popular app reviewers, bloggers, you tubers, twitter, facebook, instagram, snapchat, etc...  
 3.  Reviews are very important, they are version based and directly affect app success.  
