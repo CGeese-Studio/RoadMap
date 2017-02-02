@@ -16,7 +16,8 @@ Roadmap for app development
 3.  Reviews are very important, they are version based and directly affect app success.  
 4.  Constant communication with the userbase is key.  
 5.  App name, icon, description, screenshots and developer activity all account for success.  
-6.  Review stars and overall number of reviews can sway customer opinion
+6.  Review stars and overall number of reviews can sway customer opinion  
+7.  Review farming must be handled lightly, dont nag, request a review as politely as possible.
 
 ---  
 #Best Practices  
