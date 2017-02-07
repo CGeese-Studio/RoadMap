@@ -22,6 +22,9 @@ Roadmap for app development
       * The overcast philosophy on ratings is a perfect example of this. Display how many people have rated a particular version somewhere in the app with a link to review it yourself. ("X amount of people have rated this version of "APPNAME") We will never interrupt you for review requests.  
 8.  BANNER ADS ARE ANNOYING, stray away, find another model.  
 9.  PAY WALLS SUCK. Dont do it.  
+10. Utilize app alalytics. Pay attention to fine details and always respond to reviews.  
+     * App analytics are very important for very detailed reporting.  
+     * Always research the market and similar apps. Read their reviews and find areas for capitalization.
 
   
 ---  
