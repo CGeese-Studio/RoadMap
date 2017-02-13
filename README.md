@@ -6,6 +6,7 @@ Roadmap for app development
 [Marketing] (#marketing)  
 [Best Practices] (#best-practices)  
 [Code Examples] (#code-examples)  
+[Firebase] (#firebase)
 [Milestones] (#milestones)  
 [References] (#references)
 
@@ -36,7 +37,12 @@ A good place to test code while away from a mac is IBM bluemix. A web based play
       [IBM Bluemix] (https://swiftlang.ng.bluemix.net/#/repl)  
 
 ---  
-#Milestones  
+#Firebase  
+     [Firebase] (https://firebase.google.com/)  
+1. Learn its features and how to implement it.  
+
+---
+#Milestones  
 1. Obtain a Macbook and install the development environment (Xcode)  
       *Completed on -   
       
