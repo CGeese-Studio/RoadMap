@@ -41,10 +41,10 @@ A good place to test code while away from a mac is IBM bluemix. A web based play
      [Firebase] (https://firebase.google.com/)  
 1. Learn its features and how to implement it.  
 
----
-#Milestones  
-1. Obtain a Macbook and install the development environment (Xcode)  
-      *Completed on -   
-      
+---  
+#Milestones  
+1. Obtain a Mac and get XCode installed.
+     * Completed on -  
+     
 ---  
 #References
