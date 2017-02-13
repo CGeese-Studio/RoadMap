@@ -6,7 +6,7 @@ Roadmap for app development
 [Marketing] (#marketing)  
 [Best Practices] (#best-practices)  
 [Code Examples] (#code-examples)  
-[Firebase] (#firebase)
+[Firebase] (#firebase)  
 [Milestones] (#milestones)  
 [References] (#references)
 
